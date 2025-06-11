@@ -1,4 +1,4 @@
-# Cus_tkinter_Type_Master by Qasim
+# Cus_tkinter_Type_Master 
 
 **Welcome to Type Master — a simple yet effective typing practice app built using Python and CustomTkinter.**<br>
 This app helps you improve your typing **speed**, **accuracy**, and reduce typing **mistakes** through interactive chapter-wise typing practice.
