@@ -15,13 +15,8 @@ This app helps you improve your typing **speed**, **accuracy**, and reduce typin
 
 ---
 
-## 📷 Screenshots
-*(Add screenshots here if you have any)*
-
----
-
 ## ⚙️ Technologies Used
-- 🐍 Python 3.x<br>
+- 🐍 Python <br>
 - 🎨 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
 - 🖼️ PIL (Pillow) for image handling<br>
 
@@ -30,9 +25,10 @@ This app helps you improve your typing **speed**, **accuracy**, and reduce typin
 ## ▶️ How to Run
 1. Clone this repository<br>
 2. Make sure you have `customtkinter` and `Pillow` installed:
-3. Run the app:
+3. Run the app: python typemaster.py
 ![image](https://github.com/user-attachments/assets/06b54648-876b-4317-aee2-e07f9d5c6d18)
 ![image](https://github.com/user-attachments/assets/b8bdd36e-f2e2-4b53-9dc4-8af0d54d552c)
+![image](https://github.com/user-attachments/assets/4c77ccd9-c97a-43ff-81d2-03ebdeaf2f92)
 ![image](https://github.com/user-attachments/assets/6bac287d-dc25-446f-912d-9b761136aa4e)
 
 ## ⚖️ License
